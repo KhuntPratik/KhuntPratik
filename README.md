@@ -67,26 +67,12 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/authwall?trkInfo=AQEV8O1Fm4omagAAAZxrkVqwSABFqiXsk0fhoSE-wvETNmgBW0yrNcmSJbeQ7CoLQj2K8IkCf-9CZERUy2nkIfbg4gonCIZ86X4_ghHRe6q5zX8y31hnP0yPmmJXrcWkBBpBN44=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkhunt-pratik-41ab17308%3Futm_source%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dmember_android)" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
 </p>
 
