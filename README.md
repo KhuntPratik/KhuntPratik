@@ -29,14 +29,5 @@
 - Node.js  
 - PostgreSQL  
 
----
-
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhuntPratik&show_icons=true&theme=react)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhuntPratik&layout=compact&theme=react)
-
----
 
 ⭐ From Pratik Khunt
