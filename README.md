@@ -2,8 +2,9 @@
 ### 🚀 Full-Stack React Developer | Frontend & Backend Specialist  
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/a68586713a473ff945e75656ecce89864a301d021425635911acec40040db1f4/68747470733a2f2f7376672d62616e6e6572732e76657263656c2e6170702f6170693f747970653d6f726967696e2674657874313d534f48414d2532302674657874323df09f92bb25323046756c6c253230537461636b253230446576656c6f7065722677696474683d393030266865696768743d343030" />
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Pratik%20Khunt&text2=%F0%9F%92%BB%20Full%20Stack%20Developer&width=900&height=400" />
 </p>
+
 
 💻 Passionate Full-Stack Developer from India  
 ⚡ Building Modern Web Applications & Admin Dashboards  
