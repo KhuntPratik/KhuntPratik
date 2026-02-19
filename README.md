@@ -1,9 +1,6 @@
 # Hi 👋, I'm Pratik Khunt  
 ### 🚀 Full-Stack React Developer | Frontend & Backend Specialist  
 
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Pratik%20Khunt&text2=%F0%9F%92%BB%20Full%20Stack%20Developer&width=900&height=400" />
-</p>
 
 
 💻 Passionate Full-Stack Developer from India  
