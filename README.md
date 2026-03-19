@@ -23,7 +23,7 @@
 
 ### 💻 Frontend  
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,js,html,css,bootstrap,tailwind" />
 </p>
 
 ### ⚙️ Backend  
@@ -36,9 +36,10 @@
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
 </p>
 
-### 🛠 Tools  
+### 🛠 Tools & Platforms  
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="48"/>
 </p>
 
 ---
