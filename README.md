@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratik Khunt</h1>
-<h3 align="center">🚀 Full-Stack React Developer | Frontend & Backend Specialist</h3>
+<h3 align="center">🚀 Full-Stack React Developer</h3>
 
 <p align="center">
 💻 Passionate Developer from India building Modern Web Applications & Admin Dashboards <br/>
