@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Pratik Khunt</h1>
-<h3 align="center">🚀 Full-Stack React Developer</h3>
+<h3 align="center">🚀 MERN Stack Developer | React Enthusiast</h3>
 
 <p align="center">
-💻 Passionate Developer from India building Modern Web Applications & Admin Dashboards <br/>
-🎓 Computer Science Student
+💻 Passionate MERN Developer building Modern Web Applications & Admin Dashboards <br/>
+🎓 Computer Science Student from India
 </p>
 
 ---
 
 ## 🧑‍💻 About Me  
 
-- 🔭 Working on **React Billing System**
-- 🏍️ Developing **Bike Dealership Admin Panel**
-- 🛒 Creating **E-commerce Websites**
-- 🌱 Learning **Advanced React, Next.js & Backend Technologies**
-- 💬 Ask me about **React, Node.js, .NET, Next.js, Databases**
+- 🔭 Working on **Retail Easy (Billing & Inventory System)**
+- 🏍️ Developing **Bike Dealership Management System**
+- 🛒 Building **Business & Admin Panel Applications**
+- 🌱 Learning **Advanced MERN Stack & Scalable Backend Systems**
+- 💬 Ask me about **React, Node.js, Express, MongoDB, Next.js**
 - ⚡ Fun fact: I love building real-world business applications
 
 ---
@@ -26,14 +26,14 @@
 <img src="https://skillicons.dev/icons?i=react,nextjs,vite,js,html,css,bootstrap,tailwind" />
 </p>
 
-### ⚙️ Backend  
+### ⚙️ Backend (MERN)  
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### 🗄️ Databases  
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
 </p>
 
 ### 🛠 Tools & Platforms  
@@ -46,19 +46,25 @@
 
 ## 📂 Featured Projects  
 
-### 🧾 React Billing System  
-- Barcode Scanning  
-- PDF Generation  
-- WhatsApp Sharing  
+### 🧾 Retail Easy (Billing & Inventory System)  
+- Product & Stock Management  
+- Billing System with Calculations  
+- Admin Dashboard  
 
-### 🏍️ Bike Dealership Admin Panel  
+### 🏍️ Bike Dealership Management System  
 - Add / Edit / Delete Bikes  
-- Inventory Dashboard  
+- Inventory & Sales Tracking  
+- Admin Dashboard  
 
-### 💎 Jewelry E-commerce Website  
-- Product Listing  
-- Cart & Checkout  
-- Responsive UI  
+### ✅ Todo List App  
+- Task Add / Edit / Delete  
+- Status Management  
+- Clean UI with React  
+
+### 🏢 Family Biz Management System  
+- Business Data Management  
+- Category & Listings  
+- Backend with API Integration  
 
 ---
 
@@ -82,4 +88,4 @@
 
 ---
 
-⭐ From Pratik Khunt
+⭐ From Pratik Khunt | MERN Stack Developer
