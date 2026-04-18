@@ -3,7 +3,7 @@
 
 <p align="center">
 💻 Passionate MERN Developer building Modern Web Applications & Admin Dashboards <br/>
-🎓 Computer Science Student from India
+🎓 Computer Science Student
 </p>
 
 ---
