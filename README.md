@@ -78,7 +78,7 @@
 
 ---
 
-<p align="center"> <a href="https://www.linkedin.com/in/khunt-pratik-41ab17308" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50" alt="LinkedIn"/> </a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/khunt-pratik-41ab17308" target="_blank"> <img >
 
 ## 🌐 Connect With Me  
 
